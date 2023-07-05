@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: StudyX Support
+    url: https://t.me/quizstudyupsc
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://StudyX.tech/
+    about: Documentation for getting started with bot.
