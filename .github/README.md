@@ -12,7 +12,9 @@
 
 ## ⚠️ Heroku / Okteto / Railway
 
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/ziddixbot/2541)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LuckyRaja0/StudyXMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+We have temporarily disabled the deployment for some cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/ziddixbot/2541)
 
 ## 🖇 Generating Pyrogram String Session
 
